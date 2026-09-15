@@ -7,7 +7,7 @@ const GESAT_CONFIG = {
   },
 
   data: {
-    boliviaBasemap: "https://pub-d44086fa57624870a3a45a6fd01ea211.r2.dev",
+    boliviaBasemap: "https://pub-d44086fa57624870a3a45a6fd01ea211.r2.dev/bolivia_basemap.pmtiles",
     protectedAreas: "./data/protected_areas.pmtiles",
     administrativeBoundaryLines: "./data/administrative_boundaries_pl.pmtiles",
     administrativeNames: "./data/administrative_boundaries.pmtiles"
